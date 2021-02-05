@@ -6,19 +6,19 @@ Repositório responsável pela demo apresentada durante o evento **[Bots Brasil 
 
 ## Recursos Utilizados🚀
 
-- **[QnA Maker](https://docs.microsoft.com/azure/cognitive-services/qnamaker/overview/overview?WT.mc_id=botsbrasil-github-gllemos)**
-- **[LUIS](https://docs.microsoft.com/azure/cognitive-services/luis/what-is-luis?WT.mc_id=botsbrasil-github-gllemos)**
+- **[QnA Maker](https://docs.microsoft.com/azure/cognitive-services/qnamaker/overview/overview?WT.mc_id=javascript-0000-gllemos)**
+- **[LUIS](https://docs.microsoft.com/azure/cognitive-services/luis/what-is-luis?WT.mc_id=javascript-0000-gllemos)**
 - **[Teams - Download](https://products.office.com/pt-br/microsoft-teams/group-chat-software)**
-- **[Conta Azure - Conta Gratuita](https://azure.microsoft.com/free/?WT.mc_id=botsbrasil-github-gllemos)**
+- **[Conta Azure - Conta Gratuita](https://azure.microsoft.com/free/?WT.mc_id=javascript-0000-gllemos)**
 
 ## Conta - Azure for Students ⭐️
 
-Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=botsbrasil-github-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/pt-br/free/students/?WT.mc_id=botsbrasil-github-gllemos)**
+Caso você seja um(a) estudante de alguma Instituição de Ensino de Faculdade ou Universidade, poderá criar sua conta no **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-0000-gllemos)**. Essa conta te dará o benefício em possuir crédito de USD 100,00 para usar os serviços de maneira gratuita, sem necessidade de possuir um cartão de crédito. Para ativar essa conta, bastam acessar o link ao lado: **[AQUI](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-0000-gllemos)**
 
 
 ## Sobre a Demo 💻
 
-A demo consiste de criar de maneira muito simples um ChatBot usando o Serviço Cognitivo **[QnA Maker](https://www.qnamaker.ai/)** integrado com o **[LUIS](https://azure.microsoft.com/services/cognitive-services/language-understanding-intelligent-service/?WT.mc_id=botsbrasil-github-gllemos)** e **[Teams](https://products.office.com/pt-br/microsoft-teams/group-chat-software)**.
+A demo consiste de criar de maneira muito simples um ChatBot usando o Serviço Cognitivo **[QnA Maker](https://www.qnamaker.ai/)** integrado com o **[LUIS](https://azure.microsoft.com/services/cognitive-services/language-understanding-intelligent-service/?WT.mc_id=javascript-0000-gllemos)** e **[Teams](https://products.office.com/pt-br/microsoft-teams/group-chat-software)**.
 
 Caso desejam visualizar a demo, bastam acessar o link ao lado **[AQUI](https://youtu.be/kLKYMIm_mFA)**
 
